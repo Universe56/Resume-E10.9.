@@ -1,0 +1,97 @@
+body{
+background: white;
+}
+
+.Resume{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+.Personal_information{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+.Education_and_training{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+.Language_skills{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+.Work_experience_and_practice_places{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+.Computer_skills{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+.Personal_skills{
+    display: grid;
+    grid-gap: 1.5vw;
+    min-height: 5vh;
+    padding: 1.5vw;
+    background-color: red;
+}
+
+
+{box-sizing: border-box}
+
+
+.container{
+    width: 100%;
+    background-color: grey;
+}
+
+.skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.Java{
+    width: 75%;
+    background-color: green;
+}
+
+.Android_Studio{
+    width: 80%;
+    background-color: red;
+}
+
+.Python{
+    width: 90%;
+    background-color: blue;
+}
+
+.JS{
+    width: 65%;
+    background-color: orange;
+}
+
+
